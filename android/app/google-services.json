@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "915713521519",
+    "project_id": "fireflut-f66a1",
+    "storage_bucket": "fireflut-f66a1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915713521519:android:3463f3597a27a044fa5a9a",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz5AweTBAvkiS4x6ny-_0_yyaDWLmbAHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
